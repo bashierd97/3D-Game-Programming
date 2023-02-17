@@ -1,0 +1,44 @@
+- Player starts with waking up in bed and discovers a letter next to the lamp on the bed/chairside
+- Letter reveals code for keypad or scary riddle that reveals telephone number
+- Player calls telephone number (doesn't need to talk)
+- Telephone says "I can't hear you behind all that music!" and prompts player to turn off the radio
+- Radio, when turned off, somehow prompts player to tug on book spine on bookshelf  //17, 11, 13, 16, 2
+- Bookshelf has a book that, when you tug on the top of the spine, it reveals an undercover passageway under the rug (end of escape room)
+
+Rows upon rows of knowledge and wisdom
+Of all of these friends, one came unwelcome
+17, 11, 13, 16, 2
+The 3rd of the 4th, nobody knew
+
+Sources:
+
+https://www.turbosquid.com/3d-models/3d-model-playing-card-suits-1464953
+
+https://www.turbosquid.com/3d-models/bookcase-ase-books-free/688367
+
+https://www.turbosquid.com/3d-models/3d-door-1323686
+
+https://www.turbosquid.com/3d-models/3d-old-dirty-bed-pillows-1412086
+
+https://www.turbosquid.com/3d-models/interior-house-3d-model-1339590
+
+https://www.turbosquid.com/3d-models/3d-room-1456414
+
+
+https://freesound.org/people/vartioh/sounds/128238/
+
+https://freesound.org/people/ShortRecord/sounds/513269/
+
+https://freesound.org/people/InspectorJ/sounds/346212/
+An example of how you might credit is by putting this in the description/credits:
+"Door Squeak, Normal, D.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
+
+https://freesound.org/people/DWOBoyle/sounds/146996/
+
+https://freesound.org/people/InspectorJ/sounds/401277/
+An example of how you might credit is by putting this in the description/credits:
+"Rain, Moderate, A.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
+
+https://freesound.org/people/Josh74000MC/sounds/475094/
+
+https://opengameart.org/content/playing-cards-1
