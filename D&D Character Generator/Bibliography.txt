@@ -1,0 +1,171 @@
+Bibliography - Bashier Dahman
+
+Also, I kept previous buttons / backgrounds I've created but didn't use in the final submission, so I won't include them in this text document.
+
+Image 1 -
+Date: 9/26/20 1:56 PM
+URL: None - Created myself
+File Name: PLAY_GAME_SCENE.png
+Usage Rights: Clear / Self-Made
+
+Image 2 -
+Date: 9/26/20 4:08 PM
+URL: None - Created myself
+File Name: ABOUT_SCENE.png
+Usage Rights: Clear / Self-Made
+
+Image 3 -
+Date: 9/26/20 10:31 PM
+URL: None - Created myself
+File Name: SETTINGS_SCENE.png
+Usage Rights: Clear / Self-Made
+
+Image 4 -
+Date: 9/27/20 1:52 AM
+URL: None - Created myself
+File Name: ROLL_SCENE.png
+Usage Rights: Clear / Self-Made
+
+Image 5 -
+Date: 9/28/20 10:03 PM
+URL: None - Created myself
+File Name: Menu_Background3.png
+Usage Rights: Clear / Self-Made
+
+Image 6 -
+Date: 9/29/20 12:54 AM
+URL: None - Created myself
+File Name: PLAY_BUTTON2.png
+Usage Rights: Clear / Self-Made
+
+Image 7 -
+Date: 9/29/20 12:55 AM
+URL: None - Created myself
+File Name: ROLL_BUTTON2.png
+Usage Rights: Clear / Self-Made
+
+Image 8 -
+Date: 9/29/20 12:56 AM
+URL: None - Created myself
+File Name: ABOUT_BUTTON2.png
+Usage Rights: Clear / Self-Made
+
+Image 9 -
+Date: 9/29/20 12:57 AM
+URL: None - Created myself
+File Name: SETTINGS_BUTTON2.png
+Usage Rights: Clear / Self-Made
+
+Image 10 -
+Date: 9/29/20 1:00 AM
+URL: None - Created myself
+File Name: QUIT_BUTTON2.png
+Usage Rights: Clear / Self-Made
+
+Image 11 -
+Date: 9/29/20 1:15 AM
+URL: None - Created myself
+File Name: BACK_BUTTON.png
+Usage Rights: Clear / Self-Made
+
+Image 12 -
+Date: 9/29/20 1:43 AM
+URL: None - Created myself
+File Name: VOLUME_BUTTON.png
+Usage Rights: Clear / Self-Made
+
+Image 13 -
+Date: 9/29/20 2:05 AM
+URL: None - Created myself
+File Name: BRIGHTNESS_BUTTON.png
+Usage Rights: Clear / Self-Made
+
+Image 14 -
+Date: 9/29/20 2:16 AM
+URL: None - Created myself
+File Name: ABOUT.png
+Usage Rights: Clear / Self-Made
+
+Image 15-
+File Name: Alignment_text.png
+Usage Rights: Clear / Self Made
+
+Image 16-
+File Name: Class_text.png
+Usage Rights: Clear / Self Made
+
+Image 17-
+File Name: Race_text.png
+Usage Rights: Clear / Self Made
+
+Image 18-
+File Name: Character_Name.png
+Usage Rights: Clear / Self Made
+
+Image 19-
+File Name: Jump_Height.png
+Usage Rights: Clear / Self Made
+
+Image 20-
+File Name: Run_Speed.png
+Usage Rights: Clear / Self Made
+
+Image 21-
+File Name: Walk_Speed.png
+Usage Rights: Clear / Self Made
+
+Image 22-
+File Name: ARMOR_CLASS.png
+Usage Rights: Clear / Self Made
+
+Image 23-
+File Name: MaxXP.png
+Usage Rights: Clear / Self Made
+
+Image 24-
+File Name: CurXP.png
+Usage Rights: Clear / Self Made
+
+Image 25-
+File Name: MaxHP.png
+Usage Rights: Clear / Self Made
+
+Image 26-
+File Name: CurHP.png
+Usage Rights: Clear / Self Made
+
+Image 27-
+File Name: GenerateCharisma.png
+Usage Rights: Clear / Self Made
+
+Image 28-
+File Name: Roll_Charisma.png
+Usage Rights: Clear / Self Made
+
+Image 29-
+File Name: Roll_WIS.png
+Usage Rights: Clear / Self Made
+
+Image 30-
+File Name: Roll_INT.png
+Usage Rights: Clear / Self Made
+
+Image 31-
+File Name: Roll_CON.png
+Usage Rights: Clear / Self Made
+
+Image 32-
+File Name: Roll_DXR.png
+Usage Rights: Clear / Self Made
+
+Image 33-
+File Name: Roll_STR.png
+Usage Rights: Clear / Self Made
+
+Image 34-
+File Name: Roll_Scene2.png
+Usage Rights: Clear / Self Made
+
+Image 35-
+File Name: Create_Char_Image.png
+Usage Rights: Clear / Self Made
